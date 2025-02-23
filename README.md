@@ -29,7 +29,7 @@ Stakeholder: The telecom company's customer retention team, including marketing 
 - **total intl charge**: Total charges for international calls.  
 - **customer service calls**: Number of calls made to customer service.  
 - **churn** (*Target Variable*): `True` if the customer terminated their contract, `False` otherwise.
-- 
+
 ## **Modeling Approach**
 Multiple ML models were used to predict churn:
 
