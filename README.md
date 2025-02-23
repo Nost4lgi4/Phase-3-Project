@@ -1,6 +1,6 @@
 # **Customer Churn Prediction**
 
-## ** Overview**
+## **Overview**
 Customer churn is important for business, particularly in the telecom industry, where retaining customers is as important as acquiring new ones. This project uses machine learning models to predict customer churn and identify key factors influencing churn behavior.
 
 ## **Business and Data Understanding**
