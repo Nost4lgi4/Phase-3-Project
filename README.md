@@ -1,4 +1,4 @@
-# **Customer Churn Prediction**
+![Screenshot 2025-02-23 224611](https://github.com/user-attachments/assets/9a697c9c-19fc-4978-bd74-fd8f555ea1d3)# **Customer Churn Prediction**
 
 ## **Overview**
 Customer churn is important for business, particularly in the telecom industry, where retaining customers is as important as acquiring new ones. This project uses machine learning models to predict customer churn and identify key factors influencing churn behavior.
@@ -30,19 +30,25 @@ Stakeholder: The telecom company's customer retention team, including marketing 
 - **customer service calls**: Number of calls made to customer service.  
 - **churn** (*Target Variable*): `True` if the customer terminated their contract, `False` otherwise.
 
+![Screenshot 2025-02-23 213932](https://github.com/user-attachments/assets/211e6350-5927-4a56-8631-fd07985bc7e5)
+
 ## **Modeling Approach**
 Multiple ML models were used to predict churn:
 
 ### **Logistic Regression**
 - Simple and interpretable.
+![Screenshot 2025-02-23 224447](https://github.com/user-attachments/assets/db74a7d6-8405-4e7e-8434-292e65e564dd)
 
 ### **Decision Tree**
 - Captures nonlinear relationships
 - Easy to visualize and explain to stakeholders
+- ![Screenshot 2025-02-23 224728](https://github.com/user-attachments/assets/def92887-2021-4076-8161-3af4c5035ebf)
+
 
 ### **Random Forest (Best Model)**
 - Combines multiple decision trees to improve accuracy
 - Achieved highest AUC and recall score
+![Screenshot 2025-02-23 224611](https://github.com/user-attachments/assets/3dbfd859-0657-46c5-b29e-e8aa252a7d05)
 
 ### **Handling Imbalanced Data**
 - Churn is a minority class in the dataset.
@@ -52,7 +58,10 @@ Multiple ML models were used to predict churn:
 
 ### **ROC Curve for Model Comparison**
 - The RF model outperformed other models.
-- This means the model can effectively distinguish between churners and non-churners.
+- This means the model can effectively distinguish between churners and non-c![Screenshot 2025-02-23 224611](https://github.com/user-attachments/assets/bd5897b8-97e8-42e1-9ad6-d9db03785061)
+hurners.
+
+![Screenshot 2025-02-23 224941](https://github.com/user-attachments/assets/81517392-5de4-400b-a593-76c7503979c3)
 
 ---
 
