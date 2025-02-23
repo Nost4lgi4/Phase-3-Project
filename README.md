@@ -1,4 +1,4 @@
-![Screenshot 2025-02-23 224611](https://github.com/user-attachments/assets/9a697c9c-19fc-4978-bd74-fd8f555ea1d3)# **Customer Churn Prediction**
+# **Customer Churn Prediction**
 
 ## **Overview**
 Customer churn is important for business, particularly in the telecom industry, where retaining customers is as important as acquiring new ones. This project uses machine learning models to predict customer churn and identify key factors influencing churn behavior.
@@ -58,8 +58,7 @@ Multiple ML models were used to predict churn:
 
 ### **ROC Curve for Model Comparison**
 - The RF model outperformed other models.
-- This means the model can effectively distinguish between churners and non-c![Screenshot 2025-02-23 224611](https://github.com/user-attachments/assets/bd5897b8-97e8-42e1-9ad6-d9db03785061)
-hurners.
+- This means the model can effectively distinguish between churners and non-churners.
 
 ![Screenshot 2025-02-23 224941](https://github.com/user-attachments/assets/81517392-5de4-400b-a593-76c7503979c3)
 
